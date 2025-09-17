@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cccccb;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #000;
+        stroke-width: .2px;
+      }
+
+      .cls-2, .cls-4, .cls-5 {
+        fill: none;
+        stroke: #ed2024;
+        stroke-width: .15px;
+      }
+
+      .cls-3 {
+        fill: #999;
+      }
+
+      .cls-4 {
+        stroke-dasharray: 2.46 2.46;
+      }
+
+      .cls-5 {
+        stroke-dasharray: 2.8 2.8;
+      }
+
+      .cls-6 {
+        fill: #ddf1f7;
+      }
+    </style>
+  </defs>
+  <rect class="cls-6" x="27.86" y="3.67" width="9.37" height="9.37"/>
+  <rect class="cls-6" x="38.8" y="3.66" width="33.33" height="9.37"/>
+  <rect class="cls-6" x="27.87" y="14.59" width="9.37" height="81.75"/>
+  <g>
+    <path class="cls-2" d="M50.3,88.66c-.5,0-.99.06-1.49.15"/>
+    <path class="cls-4" d="M46.47,89.54c-2.59,1.15-4.9,3.3-6.15,5.79"/>
+    <path class="cls-2" d="M39.84,96.46c-.17.48-.3.96-.38,1.45"/>
+  </g>
+  <g>
+    <line class="cls-2" x1="71.48" y1="97.91" x2="70.1" y2="97.32"/>
+    <line class="cls-5" x1="67.52" y1="96.23" x2="48.19" y2="88.05"/>
+    <line class="cls-2" x1="46.9" y1="87.5" x2="45.52" y2="86.91"/>
+  </g>
+  <rect class="cls-1" x="27.87" y="2.09" width="44.26" height="1.56"/>
+  <rect class="cls-1" x="72.13" y="2.09" width="1.56" height="95.81"/>
+  <rect class="cls-3" x="38.8" y="14.59" width="33.33" height=".65"/>
+  <rect class="cls-1" x="37.24" y="3.66" width="1.56" height="94.25"/>
+  <rect class="cls-1" x="26.31" y="2.09" width="1.56" height="95.81"/>
+  <rect class="cls-1" x="27.87" y="13.03" width="9.37" height="1.56"/>
+  <rect class="cls-1" x="27.87" y="96.34" width="9.37" height="1.56"/>
+  <rect class="cls-1" x="38.8" y="13.03" width="33.33" height="1.56"/>
+  <rect class="cls-3" x="71.48" y="15.24" width=".65" height="82.66"/>
+  <rect class="cls-3" x="38.8" y="15.24" width=".65" height="82.66"/>
+</svg>
